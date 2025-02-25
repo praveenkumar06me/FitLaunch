@@ -1,2 +1,0 @@
-# FitLaunch
-Repository for Greta
